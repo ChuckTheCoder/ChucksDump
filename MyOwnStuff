@@ -1,0 +1,15 @@
+ <!DOCTYPE>
+  <style>
+        body {
+            background-color: black;
+            margin: 0; /* Optional: to remove default margin */
+            padding: 20px; /* Optional: to add some space around the content */
+        }
+</style>
+<a style="color: #fff; font-size: 25px;">Archive Of My Stuff:</a><br>
+<a style="color: #fff; font-size: 15px;">⬇ ⬇ ⬇ ⬇ ⬇ ⬇ ⬇ ⬇ ⬇ ⬇ ⬇ ⬇</a><br>
+<a href="https://www.example.com"><button>Audio</button></a><br><br>
+<a href="https://www.example.com"><button>Images</button></a><br><br>
+<a href="https://www.example.com"><button>Videos</button></a><br><br>
+<a href="https://www.example.com"><button>Other</button></a><br><br>
+
